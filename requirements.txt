@@ -1,0 +1,12 @@
+streamlit
+streamlit-mic-recorder
+pandas
+gTTS
+SpeechRecognition
+pydub
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+groq
+pypdf
