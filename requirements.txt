@@ -1,7 +1,7 @@
 streamlit
 streamlit-mic-recorder
 pandas
-gTTS
+edge-tts
 SpeechRecognition
 pydub
 langchain
